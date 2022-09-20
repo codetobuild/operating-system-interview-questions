@@ -1,4 +1,4 @@
-# **Important Operating Interview Questions**
+# **Important Operating System Interview Questions**
 
 > Click ⭐ if you like the project.
 > 
