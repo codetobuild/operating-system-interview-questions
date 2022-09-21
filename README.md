@@ -1,12 +1,12 @@
 # **Important Operating System Interview Questions**
 
 > Click ⭐ if you like the project.
-> 
+>
 > Feel free to make contribution. Pull Requests are highly appreciated.
-> 
+>
 > Follow me [@nokha_db](https://twitter.com/nokha_db) for technical updates.
 
-## **<a id="content" style="text-decoration-style:none; cursor: pointer;">Content</a>**  
+## **<a id="content" style="text-decoration-style:none; cursor: pointer;">Content</a>**
 
 1. Explain different process scheduling algorithms.
 2. Difference between process and threads.
@@ -77,5 +77,13 @@
 67. What are some popular mobile operating system?
 
 More questions will be added soon...
+
+[⬆️ Back to Top](#content)
+
+### Checkout other interview questions
+
+👉 [Database Management System](https://github.com/codetobuild/dbms-interview-questions)
+
+👉 [Computer Network](https://github.com/codetobuild/computer-network-interview-questions)
 
 [⬆️ Back to Top](#content)
